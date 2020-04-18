@@ -6,6 +6,9 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
+aiocache = "*"
+ujson = "*"
+msgpack = "*"
 
 [requires]
 python_version = "3.8"
